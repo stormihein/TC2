@@ -1,0 +1,2 @@
+echo '.terraform/'        >> .gitignore
+echo 'infra/.terraform/'  >> .gitignore
